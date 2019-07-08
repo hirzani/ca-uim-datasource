@@ -1,1 +1,1 @@
-## Ca UIM Datasource - Unofficial Plugin
+## Ca UIM Datasource - Unofficial Grafana Plugin
